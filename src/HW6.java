@@ -1,7 +1,7 @@
 public class HW6 {
     public static void main(String[] args) {
  Boss boss = new Boss();
- boss.setName("DOOM");
+ boss.setName("Wraith King");
  boss.setHealth(648);
  boss.setDamage(44);
 
